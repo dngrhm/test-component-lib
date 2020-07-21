@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "**/__snapshots__",
+    "**/__tests__",
+    "**/*.test.js",
+    "**/*.spec.js",
+    "**/*.stories.js"
+  ]
+}
